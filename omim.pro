@@ -71,6 +71,9 @@ SUBDIRS = 3party base coding geometry editor indexer routing search
   }
   
   CONFIG(desktop) {
+    search_tests_support.subdir = search/search_tests_support
+    SUBDIRS *= search_tests_support
+
     search_quality.subdir = search/search_quality
     search_quality.depends = $$SUBDIRS
 
@@ -87,9 +90,6 @@ SUBDIRS = 3party base coding geometry editor indexer routing search
     # Additional desktop-only, tests-only libraries.
     platform_tests_support.subdir = platform/platform_tests_support
     SUBDIRS *= platform_tests_support
-
-    search_tests_support.subdir = search/search_tests_support
-    SUBDIRS *= search_tests_support
 
     # Tests binaries.
     base_tests.subdir = base/base_tests
