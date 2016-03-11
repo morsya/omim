@@ -115,7 +115,7 @@ nb:2Bar|mat
 fi:2Baari|ruoka
 
 amenity-pub
-en:2Pub|bar
+en:2Pub|bar|U+1F37A|U+1F37B
 ar:بار
 ch:酒吧
 ch-hant:酒吧
@@ -318,7 +318,7 @@ nb:3Butikk
 fi:3Kauppa
 
 shop-chemist
-en:3Beauty Care|home care
+en:3Beauty Care|home care|U+1F3EC|U+1F3EA
 ar:العناية بالجمال|تجميل
 ch:1美容护理
 ch-hant:1美容保養|美妝店
@@ -347,7 +347,7 @@ uk:3Косметика
 vi:Thẩm mỹ viện
 
 shop-convenience
-en:3Convenience Store
+en:3Convenience Store|U+1F3EC|U+1F3EA
 ar:متجر|متجر صغير
 ch:2便利店
 ch-hant:2便利商店|便利超商
@@ -375,7 +375,7 @@ uk:3Продуктовий
 vi:Cửa hàng tạp hóa
 
 shop-doityourself
-en:3DIY Store|home improvement
+en:3DIY Store|home improvement|U+1F3EC|U+1F3EA
 ar:متجر مستلزمات تشطيب|متجر ديكور
 ch:自助商店
 ch-hant:3DIY 商店
@@ -404,7 +404,7 @@ uk:3Будматеріали|усе для дому|будівельні мат�
 vi:Cửa hàng bán đồ tự làm
 
 shop-garden_centre
-en:3Garden Store
+en:3Garden Store|U+1F3EC|U+1F3EA|U+1F3E1
 ar:حضانة|روضة
 ch:幼儿园
 ch-hant:園藝店
@@ -433,7 +433,7 @@ uk:Товари для саду|товари для саду та відпочи
 vi:Nhà trẻ
 
 shop-mobile_phone
-en:3Mobile Phone Store|electronics store
+en:3Mobile Phone Store|electronics store|U+1F3EC|U+1F3EA|U+1F4F1|U+1F4F2
 ar:متجر هواتف محمولة|متجر إلكترونيات
 ch:手机商店
 ch-hant:手機專賣店
@@ -897,7 +897,7 @@ nb:3Supermarked|butikk
 fi:3Supermarketti|kauppa
 
 shop-department_store
-en:3Department Store
+en:3Department Store|U+1F3EC|U+1F3EA
 ar:متجر شامل|مركز تجاري
 ch:百货商店
 ch-hant:百貨公司
@@ -925,7 +925,7 @@ uk:2Універмаг
 vi:Cửa hàng bách hóa
 
 shop-beverages
-en:2Drinks|3beverages
+en:2Drinks|3beverages|U+1F379
 ar:مشروبات|عصائر
 ch:饮料
 ch-hant:飲料|飲料店
@@ -954,7 +954,7 @@ uk:3Напої
 vi:Đồ uống
 
 shop-computer
-en:3Computer Store
+en:3Computer Store|U+1F4BB
 ar:متجر كمبيوتر
 ch:电脑商店
 ch-hant:電腦商店|電腦專賣店
@@ -982,7 +982,7 @@ uk:3Комп'ютерний магазин|комп'ютерна техніка
 vi:Cửa hàng máy tính
 
 shop-confectionery
-en:i3Confectionery|candy Store
+en:i3Confectionery|candy Store|U+1F36C|U+1F36D
 ar:حلواني|متجر حلويات
 ch:糖果店
 ch-hant:糕餅店|糕餅行
@@ -2460,7 +2460,7 @@ nb:Sykehus
 fi:Sairaala
 
 amenity-clinic
-en:2Clinic|1hospital
+en:2Clinic|1hospital|U+1F3E5|U+1F489
 ar:عيادة|مستشفى
 ch:诊所
 ch-hant:診所
@@ -2489,7 +2489,7 @@ uk:2Поліклініка
 vi:Bệnh viện|BV
 
 amenity-doctors
-en:2Doctor's Office
+en:2Doctor's Office|U+1F489|U+1F3E5|U+1F691
 ar:مكتب طبيب
 ch:1医师办公室
 ch-hant:1醫師診間
@@ -2776,7 +2776,7 @@ nb:Resirkulering
 fi:Kierrätys
 
 amenity-recycling
-en:2Recycling Center
+en:2Recycling Center|U+1F6AE|U+267B
 ar:مركز إعادة تدوير
 ch:1回收中心
 ch-hant:1回收中心|回收站
